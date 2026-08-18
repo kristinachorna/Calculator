@@ -6,6 +6,7 @@ A simple and stylish calculator for performing basic mathematical operations.
 
 * HTML
 * CSS
+* JavaScript
 
 ## Features
 
